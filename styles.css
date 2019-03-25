@@ -1,0 +1,42 @@
+body{
+    background-image:url(https://i.pinimg.com/originals/85/12/0b/85120b5d6f81742d85ac6bca5c6f8235.gif);
+}
+#title{
+    color:white;
+}
+li{
+    color:white;
+}
+h1{
+    text-align:center;
+    text-decoration:underline;
+    font-family: 'Abril Fatface', cursive;
+}
+h3{
+    color:white;
+}
+p{
+    text-align:center;
+    color:gold;
+    font-family: 'Black And White Picture', sans-serif;
+}
+#icecream{
+    color:#725340;
+}
+#cartoon{
+    color:#1a8cff;
+}
+#hair{
+    color: #aaff00;
+}
+#water{
+    color:red;
+}
+img{
+    width:500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
